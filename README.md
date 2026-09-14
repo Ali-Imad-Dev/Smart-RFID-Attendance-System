@@ -99,7 +99,7 @@ Only the architecture, documentation, and demonstration media are published for 
 ## 👤 Author
 **Ali Emad (Asgard OP)**  
 Full-stack Developer | IoT & Embedded Systems Designer  
-📧 [aayth8700@gmail.com] 
+📧 [aliemadnajm.iq@gmail.com] 
 
 ---
 
